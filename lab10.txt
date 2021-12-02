@@ -1,0 +1,1 @@
+สุ่ม Block + clear line + วาด Box เอาไว้ใส่ score หรือ High score เตรียมสร้างระบบ คะแนน
